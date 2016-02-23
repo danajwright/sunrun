@@ -78,8 +78,8 @@ a {
 p.border-top {
 	margin-top: 15px;
 	border-top: 1px solid #ebebeb;
-	margin-left: 20px;
-	margin-right: 20px;
+	margin-left: 40px;
+	margin-right: 40px;
 	padding-bottom: 15px;
 }
 
@@ -139,8 +139,8 @@ p.phone-bnr {
 .phone-td {
 	vertical-align: top;
 	padding-top: 30px;
-	padding-left: 20px;
-	padding-right: 20px;
+	padding-left: 40px;
+	padding-right: 40px;
 }
 
 .phone-header {
@@ -163,8 +163,7 @@ p.phone-bnr {
 
 .news-header {
 	margin-top: 15px;
-	margin-bottom: 5px;
-	margin-left: 20px;
+	margin-bottom: 30px;
 	font-size: 21px;
 	color: #00ade6;
 }
@@ -306,8 +305,8 @@ ul.sidebar li a h1,ul.sidebar li a h2,ul.sidebar li a h3,ul.sidebar li a h4,ul.s
 .content {
 	padding-top:15px;
 	padding-bottom:15px;
-	padding-left: 20px;
-	padding-right: 20px;
+	padding-left: 40px;
+	padding-right: 40px;
 	max-width:600px;
 	margin:0 auto;
 	display:block; 
