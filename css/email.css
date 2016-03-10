@@ -40,14 +40,9 @@ table {
     border-spacing: 0px;
 }
 
-.subjectline {
-    visibility: hidden;
-    line-height: 0px;
-    color: #eeecea
-}
-
 .mousetext {
     font-size: 12px;
+    margin-bottom: 0px;
 }
 
 .mousetext a {
