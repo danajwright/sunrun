@@ -113,6 +113,21 @@ a {
     padding-bottom: 15px;
 }
 
+.table-callout {
+    margin-left:40px;
+    margin-right: 40px;
+    margin-bottom:50px;
+    margin-top:20px;
+    background-color:#EEECEA;
+    border-radius:5px;
+    padding-bottom:15px;
+    padding-left: 40px;
+    padding-right: 40px;
+    max-width:600px;
+    display:block; 
+}
+
+
 p.callout {
     margin-top:20px;
     padding:15px;
@@ -129,7 +144,7 @@ p.callout {
 
 
 .news-header {
-    margin-top: 15px;
+    margin-top: 20px;
     margin-bottom: 30px;
     font-size: 21px;
     color: #00ade6;
@@ -144,6 +159,7 @@ p.callout {
     padding-top:12px;
     padding-bottom:12px;
     width: 80%;
+    max-width: 318px;
     font-size: 15px;
     font-weight:bold;
     text-align:center;
@@ -318,5 +334,21 @@ ul li {
     table.social div[class="column"] {
         width:auto!important;
     }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 }
