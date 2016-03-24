@@ -49,6 +49,12 @@ table {
     font-size: 12px;
 }
 
+.nowrap a {
+    white-space: nowrap;
+    color: #00ade6;
+    text-decoration: none;
+}
+
 /* ------------------------------------- 
         ELEMENTS 
 ------------------------------------- */
@@ -71,7 +77,7 @@ a {
 }
 
 .top-btn {
-    margin-top: 12px;
+    margin-top: 15px;
     text-decoration:none;
     color: #FFF;
     background-color: #e68835;
@@ -82,6 +88,7 @@ a {
     text-align:center;
     cursor:pointer;
     display: inline-block;
+    font-size:16px;
 }
 
 .sunrun-team {
