@@ -62,11 +62,18 @@ table {
     font-size: 12px;
 }
 
+.nowrap a {
+    white-space: nowrap;
+    color: #00ade6;
+    text-decoration: none;
+}
+
+
 /* ------------------------------------- 
         ELEMENTS 
 ------------------------------------- */
 a { 
-    color: #2BA6CB;
+    color: #00ade6;
     text-decoration: none;
 }
 
@@ -110,6 +117,14 @@ a {
     border-top: 1px solid #ebebeb;
     margin-left: 40px;
     margin-right: 40px;
+    padding-bottom: 15px;
+}
+
+.break-top {
+    margin-top: 15px;
+    border-top: 30px solid #ebebeb;
+    margin-left: 0px;
+    margin-right: 0px;
     padding-bottom: 15px;
 }
 
@@ -187,6 +202,55 @@ a.ig { background-color: #2BA6CB!important; }
     display:block;
     width:100%;
 }
+
+
+
+
+/* ------------------------------------- 
+        PHONE BANNER 
+------------------------------------- */
+
+.bnr-content {
+    padding-top:40px;
+    padding-bottom:0px;
+    max-width:600px;
+    margin:0 auto;
+    display:block; 
+}
+
+p.phone-bnr {
+    margin-bottom: 30px;
+    color: #fff;
+}
+
+.phone-bnr a {
+    color: #fff;
+}
+
+.phone-td {
+    vertical-align: top;
+    padding-top: 30px;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.phone-header {
+    color: #00ade6;
+}
+
+.phone-img {
+    display:block;
+    width: 90%;
+    padding-top: 0px;
+}
+
+.bnr-buttons {
+    margin-bottom: 30px;
+}
+
+
+
+
 
 
 /* ------------------------------------- 
